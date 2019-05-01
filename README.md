@@ -1,2 +1,2 @@
-# robodevideo
+# video-maker
 open source videos
